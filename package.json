@@ -12,7 +12,6 @@
 	"engines": {
 		"node": "8.11.2"
 	},
-	"keywords": [ "descriptive", "related", "words" ],
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
